@@ -10,6 +10,6 @@ Dependencies:
 - merge_file.txt: a line separated text file with a list of VCF files that will be merged.
 - bcftools: for this script version 1.6 is used. 
 - UCSC liftOver tool. It has to be present in the same folder as the VCF files. 
-
+- LiftOver chain file. 
 
 
